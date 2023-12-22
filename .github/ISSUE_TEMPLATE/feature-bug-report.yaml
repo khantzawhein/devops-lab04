@@ -16,7 +16,7 @@ body:
       required: false
   - type: markdown
     attributes:
-      values: Thanks for taking time to fill out this bug report!  
+      value: Thanks for taking time to fill out this bug report!  
   - type: dropdown
     id: typeofreq
     attributes:
